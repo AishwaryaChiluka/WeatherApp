@@ -12,6 +12,6 @@ To handle error i have used generic class an snackbr todisplay error
 
 2)for unknown exception it shows something went wrong 
 
-) for others it shows error details 
+3) for others it shows error details 
 
 
